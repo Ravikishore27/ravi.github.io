@@ -1,0 +1,47 @@
+/* Basic reset for styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Style for the body */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+/* Header styling */
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  color: #666;
+}
+
+/* Section styling */
+main section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #444;
+  margin-bottom: 10px;
+}
+
+/* Footer styling */
+footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.9em;
+  color: #777;
+}
+
+
